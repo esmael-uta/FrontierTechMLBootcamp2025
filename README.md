@@ -1,1 +1,1 @@
-# Frontier-Tech-Leader-ML-Bootcamp
+# Frontier-Tech-Leaders-ML-Bootcamp
